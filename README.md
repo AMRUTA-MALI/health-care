@@ -1,0 +1,2 @@
+# health-care
+In todays world ,the ,management of healthcare starts from the hands of the patients through their moblie phones and facilitates the needs of the patient ,this system is a computer system that hepls and manages to the users completely and effectively.the concept of automation of administration and  management of hospitals are used in some hospitals  like APOLLO,AIIMS in delhi.the system provides ability to analyse,manage and achieve greater eifficiency and higher customer satisfaction.this system pro
